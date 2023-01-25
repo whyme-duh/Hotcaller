@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "894216163318",
+    "project_id": "caller-list-nepal",
+    "storage_bucket": "caller-list-nepal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:894216163318:android:4a60a63b8d567cf17fc1d7",
+        "android_client_info": {
+          "package_name": "com.example.callerlist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "894216163318-rhibmfbaq2m0j5akrmqrflh51nqphbtd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuS_eawlj5TGY-y__apJ9nn0DfggH42XE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "894216163318-rhibmfbaq2m0j5akrmqrflh51nqphbtd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
